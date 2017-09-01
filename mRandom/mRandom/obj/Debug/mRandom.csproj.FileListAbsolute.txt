@@ -1,0 +1,8 @@
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\obj\Debug\mRandom.csprojResolveAssemblyReference.cache
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\obj\Debug\mRandom.MainForm.resources
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\obj\Debug\mRandom.csproj.GenerateResource.Cache
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\bin\Debug\mRandom.exe.config
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\bin\Debug\mRandom.exe
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\bin\Debug\mRandom.pdb
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\obj\Debug\mRandom.exe
+C:\Users\Sveta\Documents\SharpDevelop Projects\mRandom\mRandom\obj\Debug\mRandom.pdb
